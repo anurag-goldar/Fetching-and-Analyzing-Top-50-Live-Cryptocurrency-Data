@@ -30,7 +30,7 @@ This repository contains a Python script to fetch live cryptocurrency data for t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/anurag-goldar/Fetching-and-Analyzing-Top-50-Live-Cryptocurrency-Data.git
 
 2. Navigate to the project directory:
    cd your-repo-name
